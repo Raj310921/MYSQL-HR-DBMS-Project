@@ -1,0 +1,10 @@
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1001', '1001', '3', '01-09-2021');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1002', '1002', '3', '01-06-2019');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1003', '1003', '3', '01-08-2020');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1004', '1004', '6', '01-05-2015');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1005', '1005', '8', '01-11-2007');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1006', '1006', '8', '01-05-2009');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1007', '1007', '15', '01-02-2007');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1008', '1008', '3', '01-04-2023');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1009', '1009', '5', '01-06-2013');
+INSERT INTO `techwave_vision`.`salary` (`payslip_no`, `employee_id`, `ctc_lpa`, `start_date`) VALUES ('PS1010', '1010', '5', '01-04-2023');
