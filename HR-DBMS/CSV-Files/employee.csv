@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,gender,designation,job_grade,email_id,hire_date,induction_status,manager_id,on_notice,termination_date
+1001,Ayesha,Pathan,Female,Coder,JG1,ayesha.pathan@outlook.com,25-08-2021,yes,1006,NULL,NULL
+1002,Sanjana,Gupta,Female,Accountant,JG1,sanjana.gupta@gmail.com,25-05-2019,yes,1005,yes,01-05-2023
+1003,Shreeya,Rajdhyaksha,Female,Coder,JG1,shreeya.rajadhyaksha@gmail.com,25-07-2020,yes,1005,NULL,NULL
+1004,Pankaj,Yadav,Male,"Team leader",JG2,pankaj.yadav@outlook.com,25-04-2015,yes,1006,NULL,NULL
+1005,Sanchita,Karangutkar,Female,Manager,JG3,sanchita.karangutkar@outlook.com,25-10-2007,yes,1007,yes,01-07-2023
+1006,Ruchir,Ture,Male,Manager,JG3,ruchir.ture@gmail.com,25-04-2009,yes,1007,NULL,NULL
+1007,Raj,Shinde,Male,CEO,JG4,raj.shinde@outlook.com,01-01-2007,yes,NULL,NULL,NULL
+1008,Maseera,Sayyed,Female,Accountant,JG1,maseera.sayyed@gmail.com,25-03-2023,no,1005,NULL,NULL
+1009,Shivani,Mayekar,Female,HR,JG2,shivani.mayekar@outlook.com,25-05-2013,yes,1006,NULL,NULL
+1010,Nikhil,Patel,Male,HR,JG2,nikhil.patel@outlook.com,25-03-2023,no,1006,NULL,NULL
